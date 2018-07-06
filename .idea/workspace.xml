@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eba5ec57-1cfd-4060-8b35-ffe0cd3ec843" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/markup/components/hero/hero.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/components/hero/hero.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/markup/components/hero/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/components/hero/hero.scss" afterDir="false" />
     </list>
@@ -20,8 +21,8 @@
           <file leaf-file-name="hero.pug" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.pug">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="183">
-                  <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
+                <state relative-caret-position="217">
+                  <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
                 </state>
               </provider>
             </entry>
@@ -96,8 +97,8 @@
           <file leaf-file-name="hero.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="140">
-                  <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+                <state relative-caret-position="89">
+                  <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -239,6 +240,11 @@
             <path>
               <item name="donson-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="donson-test" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="donson-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="donson-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -368,12 +374,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530782984573</updated>
       <workItem from="1530782986791" duration="30089000" />
-      <workItem from="1530854294707" duration="10685000" />
+      <workItem from="1530854294707" duration="11155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40774000" />
+    <option name="totallyTimeSpent" value="41244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1288" y="-148" width="1296" height="1000" extended-state="6" />
@@ -384,8 +390,8 @@
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32946634" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20469256" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32946634" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20469256" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -737,13 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/markup/components/gainings/gainings.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14">
@@ -751,10 +750,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+        <state relative-caret-position="89">
+          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
         </state>
       </provider>
     </entry>

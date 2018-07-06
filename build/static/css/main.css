@@ -707,6 +707,7 @@ header.header {
 
 .hero__description-btn {
   display: block;
+  width: 272px;
   padding-top: 15px;
   padding-right: 40px;
   padding-bottom: 8px;
