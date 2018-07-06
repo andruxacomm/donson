@@ -619,6 +619,7 @@ header.header {
 }
 
 .tab-list__item:hover {
+  color: #fff;
   background: #000;
   -webkit-transition: 0.5s;
   transition: 0.5s;
