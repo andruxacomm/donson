@@ -713,7 +713,11 @@ header.header {
   padding-left: 40px;
   margin: 0 auto;
   margin-top: 20px;
+  font-family: "GloberBold", Helvetica, Arial, sans-serif;
+  font-size: 20px;
   line-height: 23px;
+  color: #2a292a;
+  text-decoration: none;
   text-transform: uppercase;
   border: 0;
   outline: none;

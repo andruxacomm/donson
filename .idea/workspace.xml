@@ -2,110 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eba5ec57-1cfd-4060-8b35-ffe0cd3ec843" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/humans.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/separate-css/separate-css-sample.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberBold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberLight.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberLight.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberLight.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberLight.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberRegular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberRegular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberRegular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberRegular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/fonts/GloberRegular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/img/content/Layer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/img/content/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/img/content/arrow-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/img/content/blanket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/img/content/hero-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/img/content/phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/vendor.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/about/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/about/about.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/about/about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/about/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/analitic/analitic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/analitic/analitic.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/analitic/analitic.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/analitic/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/contacts/contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/contacts/contacts.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/contacts/contacts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/contacts/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/cooperation/cooperation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/cooperation/cooperation.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/cooperation/cooperation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/cooperation/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/gainings/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/gainings/gainings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/gainings/gainings.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/gainings/gainings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/hero/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/hero/hero.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/hero/hero.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/hero/hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/marketing/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/marketing/marketing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/marketing/marketing.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/marketing/marketing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/popup/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/popup/popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/popup/popup.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/popup/popup.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/products/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/products/products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/products/products.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/products/products.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/tab-list/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/tab-list/tab-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/tab-list/tab-list.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/components/tab-list/tab-list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberBold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberLight.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberLight.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberLight.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberLight.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberRegular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberRegular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberRegular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberRegular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/fonts/GloberRegular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/img/content/Layer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/img/content/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/img/content/arrow-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/img/content/blanket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/img/content/hero-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markup/static/img/content/phone.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markup/components/header/data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/components/header/data/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markup/components/header/header.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/components/header/header.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markup/components/header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/components/header/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markup/layouts/default.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/layouts/default.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markup/pages/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/pages/index.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markup/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/static/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markup/static/scss/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/static/scss/common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markup/static/scss/entry/partials/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/static/scss/entry/partials/_components.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/markup/static/scss/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/static/scss/fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markup/components/hero/hero.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/components/hero/hero.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markup/components/hero/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/markup/components/hero/hero.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -118,6 +17,15 @@
     <splitter split-orientation="vertical" split-proportion="0.5696056">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="hero.pug" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.pug">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="183">
+                  <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="default.pug" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/markup/layouts/default.pug">
               <provider selected="true" editor-type-id="text-editor">
@@ -127,10 +35,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="popup.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="popup.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/markup/components/popup/popup.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
+                <state relative-caret-position="263">
                   <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
                 </state>
               </provider>
@@ -158,7 +66,7 @@
             <entry file="file://$PROJECT_DIR$/src/markup/components/tab-list/tab-list.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="85">
-                  <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+                  <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
                 </state>
               </provider>
             </entry>
@@ -185,16 +93,16 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="hero.scss" pinned="false" current-in-tab="false">
+          <file leaf-file-name="hero.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="126">
-                  <caret line="145" column="11" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="11" />
+                <state relative-caret-position="140">
+                  <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="gainings.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="gainings.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/markup/components/gainings/gainings.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="14">
@@ -281,10 +189,8 @@
         <option value="$PROJECT_DIR$/src/markup/components/popup/popup.scss" />
         <option value="$PROJECT_DIR$/src/markup/pages/index.pug" />
         <option value="$PROJECT_DIR$/src/markup/static/scss/common.scss" />
-        <option value="$PROJECT_DIR$/src/markup/components/hero/hero.pug" />
         <option value="$PROJECT_DIR$/src/markup/static/js/main.js" />
         <option value="$PROJECT_DIR$/src/markup/components/tab-list/tab-list.scss" />
-        <option value="$PROJECT_DIR$/src/markup/components/hero/hero.scss" />
         <option value="$PROJECT_DIR$/src/markup/components/header/header.scss" />
         <option value="$PROJECT_DIR$/src/markup/layouts/default.pug" />
         <option value="$PROJECT_DIR$/src/markup/components/popup/popup.pug" />
@@ -292,6 +198,8 @@
         <option value="$PROJECT_DIR$/src/markup/components/hero/hero.js" />
         <option value="$PROJECT_DIR$/src/markup/components/tab-list/tab-list.js" />
         <option value="$PROJECT_DIR$/src/markup/components/popup/popup.js" />
+        <option value="$PROJECT_DIR$/src/markup/components/hero/hero.pug" />
+        <option value="$PROJECT_DIR$/src/markup/components/hero/hero.scss" />
       </list>
     </option>
   </component>
@@ -460,12 +368,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530782984573</updated>
       <workItem from="1530782986791" duration="30089000" />
-      <workItem from="1530854294707" duration="9868000" />
+      <workItem from="1530854294707" duration="10685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39957000" />
+    <option name="totallyTimeSpent" value="40774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1288" y="-148" width="1296" height="1000" extended-state="6" />
@@ -476,8 +384,8 @@
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Run" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32946634" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20469256" />
+      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32946634" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20469256" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -794,13 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/markup/layouts/default.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -808,31 +709,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="145" column="11" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/markup/components/gainings/gainings.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/markup/components/tab-list/tab-list.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -845,8 +725,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/markup/components/popup/popup.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="263">
           <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markup/components/gainings/gainings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markup/components/hero/hero.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
         </state>
       </provider>
     </entry>
