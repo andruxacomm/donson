@@ -7,3 +7,10 @@
 // Var for using custom font
 $font-1: 'Open Sans', Helvetica, Arial, sans-serif;
 */
+
+@include font-face('GloberRegular', '../fonts/GloberRegular', normal, italic, $exts: woff woff2 ttf);
+@include font-face('GloberBold', '../fonts/GloberBold', normal, italic, $exts: woff woff2 ttf);
+@include font-face('GloberLight', '../fonts/GloberLight', normal, italic, $exts: woff woff2 ttf);
+$globel-reg: 'GloberRegular', Helvetica, Arial, sans-serif;
+$globel-bold: 'GloberBold', Helvetica, Arial, sans-serif;
+$globel-light: 'GloberLight', Helvetica, Arial, sans-serif;

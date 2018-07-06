@@ -1,3 +1,99 @@
 .header {
+    .container {
+        padding-top: 12px;
+    }
+
+    &__top {
+        width: 100%;
+    }
+
+    &__bottom {
+        position: relative;
+    }
+
+    &__logo {
+        flex-direction: column;
+        margin-left: 25px;
+    }
+
+    &__contacts {
+        padding-top: 35px;
+    }
+
+    &__tab-list {
+        position: relative;
+        z-index: 1;
+
+        flex-wrap: nowrap;
+
+        background: #333333;
+        list-style: none;
+    }
 
 }
+
+.contacts {
+    &__description {
+        display: block;
+        margin-top: -4px;
+
+        font-family: $globel-reg;
+        font-size: 17px;
+    }
+
+    &__phone-number {
+        font-family: $globel-reg;
+        font-size: 33px;
+        color: #0099cc;
+    }
+
+    &__order-btn {
+        padding-top: 10px;
+        padding-right: 45px;
+        padding-left: 45px;
+        margin-top: 5px;
+        margin-right: 10px;
+        margin-bottom: 5px;
+
+        font-family: $globel-bold;
+        font-size: 20px !important;
+        font-size: 1rem;
+        color: #2a292a;
+        text-transform: uppercase;
+
+        border: 0;
+        background-color: #ffc000;
+        outline: none;
+        &:hover {
+            background: #cccccc;
+
+            transition: 0.5s;
+        }
+
+    }
+
+    &__phone {
+        margin-right: 56px;
+    }
+
+    &__phone-image {
+        width: 28px;
+        margin-right: 17px;
+    }
+}
+
+.logo {
+    &__image {
+        height: 71px;
+    }
+
+    &__description {
+        font-family: $globel-reg;
+        font-size: 17.9px;
+    }
+}
+
+
+
+
+

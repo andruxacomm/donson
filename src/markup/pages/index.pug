@@ -1,7 +1,26 @@
 extends ../layouts/default
 
+include ../components/hero/hero
+include ../components/gainings/gainings
+include ../components/about/about
+include ../components/products/products
+include ../components/cooperation/cooperation
+include ../components/analitic/analitic
+include ../components/marketing/marketing
+include ../components/contacts/contacts
+include ../components/popup/popup
+
 block vars
     -pageSettings.title = 'Главная';
 
 block content
-    // Контент здесь
+    +hero(data)
+    +gainings(data)
+    +about(data)
+    +products(data)
+    +cooperation(data)
+    +analitic(data)
+    +marketing(data)
+    +contacts(data)
+
+    +popup()

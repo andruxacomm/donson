@@ -1,3 +1,21 @@
+include ../tab-list/tab-list
+
 mixin header(data)
     +b.HEADER.header()&attributes(attributes)
-        block
+        +e.top
+            .container.d-flex.jc-space-between
+                +b.logo.__logo.d-flex
+                    +e.IMG.image(src='%=static=%img/content/Logo.png')
+                    +e.SPAN.description производство текстиля для сна
+                +b.contacts.__contacts.d-flex
+                    +e.phone
+                        +e.IMG.phone-image(src='%=static=%img/content/phone.png')
+                        +e.SPAN.phone-number 8(800) 555-35-35
+                        +e.SPAN.description Отдел по работе с дистрибьюторами
+                    +e.BUTTON.order-btn.is-active Заказать звонок
+        +e.bottom
+            .container
+                +b.UL.tab-list.__tab-list.d-flex.jc-center
+                    each item in data.items
+                        +tab-list(item)
+

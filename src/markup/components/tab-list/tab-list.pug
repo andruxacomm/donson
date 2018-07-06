@@ -1,0 +1,4 @@
+mixin tab-list(data)
+    +e.LI.item(class=data.status)&attributes(attributes)
+        +e.A.item-link(href=data.anchor)= data.description
+

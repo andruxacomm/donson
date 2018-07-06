@@ -1,0 +1,28 @@
+
+mixin hero(data)
+    +b.SECTION.hero(id="hero")&attributes(attributes)
+        .container
+            +e.title-container
+                +e.H1.title Станьте эксклюзивным дистрибьютором DonSon в своем регионе
+            +e.information-container
+                +e.H2.information-title и зарабатывайте от 500 тыс. руб. в месяц
+                +e.H3.information-subtitle на оптовой продаже текстиля для сна
+                +e.H3.information-subtitle Гарантия выхода на прибыль уже в первый месяц
+                +e.text-container
+                    +e.P.text Это возможно, поскольку мы обеспечим Вас текстильной продукцией высокого качества
+                        | и клиентами из Вашего региона, заинтересованных в оптовых закупках небольшими партиями
+                    +e.P.text Мы поможем Вам собрать или улучшить уже имеющуюся команду, проведем обучение Вас и персонала,
+                        | научим наращивать обьем продаж
+                        br
+                        | С вами будет работать наш персональный менеджер, который помоджет Вам в этом
+                    +e.P.text *Обычно наши дистрибьюторы через 3 месяца становятся самыми крупными текстильными
+                        | компаниями в своем регионе и расширяют бизнес на соседние
+                +e.BUTTON.description-btn.is-active
+                    +e.A.descroption-anchor(href="#gainings") Узнать подробнее
+                +e.arrow-down
+                    +e.IMG.arrow-image(src='%=static=%img/content/arrow-d.png')
+                    +e.A.descroption-anchor(href="#gainings")
+
+
+
+

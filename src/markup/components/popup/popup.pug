@@ -1,0 +1,17 @@
+mixin popup(data)
+    +b.popup.d-flex.jc-center()&attributes(attributes)
+        +b.header.__header
+            +e.SPAN.close X
+        +b.FORM.form.__form(method="POST")
+            +e.H2.title Обратная связь
+            +e.P.text Заполните форму и наш менеджер свяжется с вами в течении 10 минут
+            +e.input-container
+                +e.INPUT.input(placeholder="email" name="email" type="email" required)
+            +e.input-container
+                +e.INPUT.input(placeholder="Ваше имя" name="name" type="text" required minlength='3' title="Зполните ваше имя правильно")
+            +e.input-container
+                +e.INPUT.input(placeholder="Телефон" name="phone" id='mask' type="tel" pattern="^((8|\\+7)[\\- ]?)?(\\(?\\d{3}\\)?[\\- ]?)?[\\d\\- ]{7,10}$" title='+79261234567' required)
+            +e.BUTTON.btn-send(type='submit') Отправить
+
+    +b.overlay
+

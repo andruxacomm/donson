@@ -4,8 +4,80 @@
 *::before,
 *::after {
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
 html, body {
     height: 100%;
+    box-sizing: border-box;
 }
+
+header.header {
+    background: url("%=static=%/content/Layer.png") no-repeat;
+    background-size: cover;
+    height: 145px;
+}
+
+.container {
+    max-width: 1373px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.jc-center {
+    justify-content: center;
+}
+
+.jc-space-between {
+    justify-content: space-between;
+}
+
+.is-active {
+    position: relative;
+
+    color: rgb(42, 41, 42) !important;
+
+    background-color: rgb(255, 192, 0);
+
+    transition-duration: 1s;
+    transition-property: background-color;
+    &:before {
+        content: '';
+
+        position: absolute;
+        top: 50%;
+        left: 0;
+
+        width: rem(26);
+        height: rem(1.1);
+
+        background: #000;
+    }
+
+    &:after {
+        content: '';
+
+        position: absolute;
+        top: 50%;
+        right: 0;
+
+        width: rem(26);
+        height: rem(1.1);
+
+        background: #000;
+    }
+    .tab-list__item-link {
+        color: rgb(42, 41, 42) !important;
+    }
+}
+
+.relative {
+    position: relative;
+}
+

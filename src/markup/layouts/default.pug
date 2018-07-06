@@ -16,7 +16,7 @@ html(lang='ru')
     include ../components/head/head
 
     body
-        +header()
+        +header(header)
 
         block content
 
@@ -24,3 +24,5 @@ html(lang='ru')
 
         script(src='%=static=%js/vendor%=min=%.js')
         script(src='%=static=%js/main%=hash=%%=min=%.js')
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/dependencyLibs/inputmask.dependencyLib.min.js')
+        script(src='https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/inputmask/inputmask.min.js')
